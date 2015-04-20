@@ -14,7 +14,7 @@ body {
     color: orange;
 }
 
-.button{
+div.scroll.button{
     display:inline-block;
     width:10px;
     height:10px;
@@ -23,7 +23,7 @@ body {
     line-height:100px;
     background:#d3d3d3;
 }
-.button:hover{
+div.scroll.button:hover{
     background:#fff;
 }
 

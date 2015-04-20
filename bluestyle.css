@@ -9,6 +9,9 @@ body {
     background-color: black;
 }
 
-div.icon {
-    color: #e1bfff;
+.sleepyHead {
+    background: url(../images/icons/friends_16x16.png) no-repeat;
+}
+.byebyebuy {
+    
 }

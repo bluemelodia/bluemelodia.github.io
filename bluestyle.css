@@ -25,7 +25,10 @@ div.img img {
 }
 
 div.img a:hover img {
-    /*border: 1px solid #0000ff;*/
+    transition: 1s ease;
+    -webkit-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+    transform: scale(1.2);
 }
 
 div.desc {

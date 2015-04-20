@@ -10,7 +10,7 @@ body {
 }
 
 .sleepyHead { /* display projects like an iOS app icon */
-    .img {
+    sleepyHead.img img {
         border-radius: 50px; /* give rounded corners to the icon */
     }
     width: 120px;
@@ -23,7 +23,7 @@ body {
     margin-left: 15px;
 }
 .byebyebuy {
-    .img {
+    byebyebuy.img img {
         border-radius: 50px;
     }
     width: 120px;

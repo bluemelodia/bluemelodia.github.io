@@ -12,7 +12,7 @@ body {
 .scroll {
     margin: 0 auto;
     color: red;
-    width: 100px;
+    width: 25%;
     height: 100px;
 }
 .button{

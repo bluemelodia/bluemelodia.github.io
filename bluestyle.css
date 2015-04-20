@@ -10,7 +10,9 @@ body {
 }
 
 .sleepyHead { /* display projects like an iOS app icon */
-    border-radius: 50px; /* give rounded corners to the icon */
+    .img {
+        border-radius: 50px; /* give rounded corners to the icon */
+    }
     width: 120px;
     height: 120px;
     border: none;

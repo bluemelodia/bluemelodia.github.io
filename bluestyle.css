@@ -12,6 +12,8 @@ body {
 div.scroll {
     margin: 0 auto;
     color: red;
+    width: 100px;
+    height: 100px;
     .cool {
         
     }

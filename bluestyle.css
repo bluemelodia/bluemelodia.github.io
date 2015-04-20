@@ -9,9 +9,12 @@ body {
     background-color: gray;
 }
 
-.scroll {
+div.scroll {
     margin: 0 auto;
     color: red;
+    .cool {
+        
+    }
     .button{
         display:inline-block;
         width:10px;

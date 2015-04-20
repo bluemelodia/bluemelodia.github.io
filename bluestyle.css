@@ -1,7 +1,7 @@
 h1 {
     font-family: Candara,Calibri,Segoe,Segoe UI,Optima,Arial,sans-serif;
     color: #e1bfff;
-    font-size: 80px;
+    font-size: 48px;
     text-align: center
 }
 
@@ -13,5 +13,9 @@ body {
     background: url(../images/icons/friends_16x16.png) no-repeat;
 }
 .byebyebuy {
-    
+    background: url(../images/icons/BuyBuyBye.png) no-repeat;
+    width: 100px;
+    height: 100px;
+    border: none;
+    display:inline-block;
 }

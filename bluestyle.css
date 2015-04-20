@@ -12,9 +12,9 @@ body {
 .sleepyHead { /* display projects like an iOS app icon */
     .img {
         border-radius: 50px; /* give rounded corners to the icon */
+        width: 120px;
+        height: 120px;
     }
-    width: 120px;
-    height: 120px;
     border: none;
     display:inline-block; /* displays the element as an inline block element */
     margin-top: 15px;
@@ -25,9 +25,9 @@ body {
 .byebyebuy {
     .img {
         border-radius: 50px;
+        width: 120px;
+        height: 120px;
     }
-    width: 120px;
-    height: 120px;
     border: none;
     display:inline-block;
     margin-top: 15px;

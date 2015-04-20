@@ -13,7 +13,9 @@ body {
     display:inline-block;
     width:10px;
     height:10px;
-    margin:10px;
+    margin:5px;
+    margin-left: auto; /* center the button */
+    margin-right: auto;
     border-radius:50px;
     line-height:100px;
     background:#d3d3d3;

@@ -9,13 +9,13 @@ body {
     background-color: black;
 }
 
-.scroll {
+div.scroll {
     background-color: red;
     margin: 0 auto;
     width: 25%;
 }
 
-.button{
+div.scroll button{
     display:inline-block;
     width:10px;
     height:10px;
@@ -24,7 +24,7 @@ body {
     border-radius:50px;
     background:#d3d3d3;
 }
-.button:hover{
+div.scroll button:hover{
     background:#fff;
 }
 

@@ -23,7 +23,9 @@ body {
     margin-left: 15px;
 }
 .byebyebuy {
-    border-radius: 50px;
+    .img {
+        border-radius: 50px;
+    }
     width: 120px;
     height: 120px;
     border: none;

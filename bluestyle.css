@@ -19,7 +19,7 @@ body {
     display:inline-block;
     width:10px;
     height:10px;
-    padding: 6px;
+    margin:6px;
     border-radius:50px;
     background:#d3d3d3;
 }

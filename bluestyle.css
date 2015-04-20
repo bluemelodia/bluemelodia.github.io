@@ -9,6 +9,18 @@ body {
     background-color: black;
 }
 
+.button{
+    display:block;
+    width:100px;
+    height:100px;
+    border-radius:50px;
+    font-size:20px;
+    color:#fff;
+    line-height:100px;
+    text-align:center;
+    background:#000
+}
+
 div.img {
     margin: 5px;
     padding: 5px;

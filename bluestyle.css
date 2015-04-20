@@ -1,6 +1,8 @@
 h1 {
     font-family: Candara,Calibri,Segoe,Segoe UI,Optima,Arial,sans-serif;
-    color: blue;
+    color: #e1bfff;
+    font-size: 80px;
+    text-align: center
 }
 
 body {

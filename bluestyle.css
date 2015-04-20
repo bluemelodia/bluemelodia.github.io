@@ -13,7 +13,7 @@ body {
     display:inline-block;
     width:10px;
     height:10px;
-    margin: 0 auto;
+    margin: auto auto;
     border-radius:50px;
     line-height:100px;
     background:#d3d3d3;

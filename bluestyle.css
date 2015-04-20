@@ -2,8 +2,7 @@ h1 {
     font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
     color: #e1bfff;
     font-size: 24px;
-    /*text-align: center;*/
-    margin: 0 auto;
+    text-align: center;
 }
 
 body {
@@ -12,7 +11,7 @@ body {
 
 .scroll {
     margin: 0 auto;
-    width: 150px;
+    width: 25%px;
 }
 .button{
     display:inline-block;

@@ -10,7 +10,7 @@ body {
 }
 
 .scroll {
-    background-color: green;
+    background-color: blue;
     margin: 0 auto;
     width: 25%;
 }
@@ -19,11 +19,9 @@ body {
     display:inline-block;
     width:10px;
     height:10px;
-    margin: 6px;
     margin-left:auto;
     margin-right:auto;
     border-radius:50px;
-    line-height:100px;
     background:#d3d3d3;
 }
 .button:hover{

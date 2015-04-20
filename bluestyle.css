@@ -10,7 +10,11 @@ body {
 }
 
 .sleepyHead {
-    background: url(../images/icons/friends_16x16.png) no-repeat;
+    background: url(../images/icons/SleepyHead.png) no-repeat;
+    width: 120;
+    height: 120;
+    border: none;
+    display:inline-block;
 }
 .byebyebuy {
     background: url(../images/icons/BuyBuyBye.png) no-repeat;

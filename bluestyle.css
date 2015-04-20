@@ -1,5 +1,5 @@
 h1 {
-    font-family: Candara,Calibri,Segoe,Segoe UI,Optima,Arial,sans-serif;
+    font-family: Candara,Calibri,Segoe,Segoe UI,Optima,Arial,sans-serif; /* Candara might not be the best choice */
     color: #e1bfff;
     font-size: 48px;
     text-align: center
@@ -9,16 +9,17 @@ body {
     background-color: black;
 }
 
-.sleepyHead {
+.sleepyHead { /* display projects like an iOS app icon */
     background: url(../images/icons/SleepyHead.png) no-repeat;
     border-radius: 25px; /* give rounded corners to the icon */
     width: 120px;
     height: 120px;
     border: none;
-    display:inline-block;
+    display:inline-block; /* displays the element as an inline block element */
 }
 .byebyebuy {
     background: url(../images/icons/BuyBuyBye.png) no-repeat;
+    border-radius: 25px;
     width: 120px;
     height: 120px;
     border: none;

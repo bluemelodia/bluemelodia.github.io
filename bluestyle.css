@@ -14,8 +14,8 @@ body {
 }
 .byebyebuy {
     background: url(../images/icons/BuyBuyBye.png) no-repeat;
-    width: 100px;
-    height: 100px;
+    width: 120;
+    height: 120;
     border: none;
     display:inline-block;
 }

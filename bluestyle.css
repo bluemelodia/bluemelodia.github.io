@@ -15,7 +15,7 @@ body {
     width: 25%;
 }
 
-div.scroll button{
+.button{
     display:inline-block;
     width:10px;
     height:10px;
@@ -24,7 +24,7 @@ div.scroll button{
     line-height:100px;
     background:#d3d3d3;
 }
-div.scroll button:hover{
+.button:hover{
     background:#fff;
 }
 

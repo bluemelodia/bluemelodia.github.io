@@ -12,7 +12,7 @@ body {
 .scroll {
     margin: 0 auto;
     color: red;
-    width: 100px;
+    width: 125px;
 }
 .button{
     display:inline-block;

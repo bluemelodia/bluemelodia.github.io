@@ -19,9 +19,9 @@ div.img {
 }	
 
 div.img img {
+    border-radius: 25px; /* give rounded corners to the icons */
     display: inline;
     margin: 5px;
-    border: 1px solid #ffffff;
 }
 
 div.img a:hover img {

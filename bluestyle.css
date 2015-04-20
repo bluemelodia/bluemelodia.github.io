@@ -11,22 +11,20 @@ body {
 
 .scroll {
     margin: 0 auto;
-    color: orange;
+    color: red;
+    .button{
+        display:inline-block;
+        width:10px;
+        height:10px;
+        margin: 6px;
+        border-radius:50px;
+        line-height:100px;
+        background:#d3d3d3;
+    }
+    .button:hover{
+        background:#fff;
+    }
 }
-
-div.scroll.button{
-    display:inline-block;
-    width:10px;
-    height:10px;
-    margin: 6px;
-    border-radius:50px;
-    line-height:100px;
-    background:#d3d3d3;
-}
-div.scroll.button:hover{
-    background:#fff;
-}
-
 
 div.img {
     margin: 5px;

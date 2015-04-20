@@ -14,11 +14,10 @@ body {
     width:20px;
     height:20px;
     border-radius:50px;
-    color:#fff;
     line-height:100px;
     text-align:center;
     text-decoration:none;
-    background:#000
+    background:#d3d3d3;
 }
 .button:hover{
     color:#ccc;

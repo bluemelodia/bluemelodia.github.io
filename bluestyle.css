@@ -11,8 +11,7 @@ body {
 
 .scroll {
     margin: 0 auto;
-    color: red;
-    width: 125px;
+    width: 150px;
 }
 .button{
     display:inline-block;

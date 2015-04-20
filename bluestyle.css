@@ -21,9 +21,7 @@ body {
     background:#d3d3d3;
 }
 .button:hover{
-    color:#ccc;
-    text-decoration:none;
-    background:#333
+    background:#fff;
 }
 
 

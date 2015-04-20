@@ -20,6 +20,20 @@ body {
   height: 500px;
 }
 
+.holder {
+  width: 300%;
+}
+
+#slide-0 {
+  background-image: url(http://farm8.staticflickr.com/7347/8731666710_34d07e709e_z.jpg);
+}
+#slide-1 {
+  background-image: url(http://farm8.staticflickr.com/7384/8730654121_05bca33388_z.jpg);
+}
+#slide-2 {
+  background-image: url(http://farm8.staticflickr.com/7382/8732044638_9337082fc6_z.jpg);
+}
+
 div.img {
     margin: 5px;
     padding: 5px;

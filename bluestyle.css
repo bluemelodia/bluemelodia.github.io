@@ -15,7 +15,7 @@ body {
     width: 25%;
 }
 
-.scroll button {
+.button {
     display:inline-block;
     width:10px;
     height:10px;
@@ -24,7 +24,7 @@ body {
     border-radius:50px;
     background:#d3d3d3;
 }
-.scroll a:hover button {
+.button:hover {
     background:#fff;
 }
 

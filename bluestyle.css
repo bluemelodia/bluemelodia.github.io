@@ -19,8 +19,7 @@ body {
     display:inline-block;
     width:10px;
     height:10px;
-    margin-left:auto;
-    margin-right:auto;
+    padding: 6px;
     border-radius:50px;
     background:#d3d3d3;
 }

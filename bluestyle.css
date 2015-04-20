@@ -10,14 +10,14 @@ body {
 }
 
 .slider {
-  width: 300px;
-  height: 500px;
+  width: 2048px;
+  height: 1536px;
   overflow-x: scroll;
 }
 .slide {
   float: left;
-  width: 300px;
-  height: 500px;
+  width: 2048px;
+  height: 1536px;
 }
 
 .holder {

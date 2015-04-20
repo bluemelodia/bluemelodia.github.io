@@ -11,6 +11,7 @@ body {
 
 .sleepyHead {
     background: url(../images/icons/SleepyHead.png) no-repeat;
+    border-radius: 25px; /* give rounded corners to the icon */
     width: 120;
     height: 120;
     border: none;

@@ -9,7 +9,7 @@ body {
     background-color: black;
 }
 
-div.scroll {
+.scroll {
     background-color: red;
     margin: 0 auto;
     width: 25%;

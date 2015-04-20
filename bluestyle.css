@@ -11,10 +11,9 @@ body {
 
 .button{
     display:inline-block;
-    width:100px;
-    height:100px;
+    width:20px;
+    height:20px;
     border-radius:50px;
-    font-size:12px;
     color:#fff;
     line-height:100px;
     text-align:center;

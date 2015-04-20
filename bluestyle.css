@@ -9,6 +9,17 @@ body {
     background-color: black;
 }
 
+.slider {
+  width: 300px;
+  height: 500px;
+  overflow-x: scroll;
+}
+.slide {
+  float: left;
+  width: 300px;
+  height: 500px;
+}
+
 div.img {
     margin: 5px;
     padding: 5px;

@@ -11,12 +11,11 @@ body {
 
 .button{
     display:inline-block;
-    width:20px;
-    height:20px;
+    width:10px;
+    height:10px;
+    margin:10px;
     border-radius:50px;
     line-height:100px;
-    text-align:center;
-    text-decoration:none;
     background:#d3d3d3;
 }
 .button:hover{

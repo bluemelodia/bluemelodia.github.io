@@ -11,10 +11,10 @@ body {
 
 .button{
     display:inline-block;
-    width:100px;
-    height:100px;
+    width:120px;
+    height:120px;
     padding: 5px;
-    border-radius:50px;
+    border-radius:25px;
     font-size:20px;
     color:#fff;
     line-height:100px;

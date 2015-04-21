@@ -32,6 +32,10 @@ body {
     background:#fff;
 }
 
+.icon {
+    display:inline-block;
+}
+
 div.img {
     margin: 5px;
     padding: 5px;

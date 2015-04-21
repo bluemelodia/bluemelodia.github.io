@@ -12,28 +12,12 @@ body {
 .ipad {
     margin: 0 auto;
     text-align: center;
-}
-
-.scroll {
-    margin: 0 auto;
-    width: 100%;
-    text-align: center;
-}
-
-.button {
-    display:inline-block;
-    width:10px;
-    height:10px;
-    margin:6px;
-    border-radius:50px;
-    background:#d3d3d3;
-}
-.button:hover {
-    background:#fff;
+    position:relative;
 }
 
 .icons {
     display:inline-block;
+    position:absolute;
 }
 
 div.img {

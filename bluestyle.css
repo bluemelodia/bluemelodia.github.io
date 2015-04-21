@@ -45,9 +45,9 @@ div.img {
 }	
 
 div.img img {
-    width: 80px;
-    height: 80px;
-    border-radius: 12px; /* give rounded corners to the icons */
+    width: 90px;
+    height: 90px;
+    border-radius: 15px; /* give rounded corners to the icons */
     display: inline;
     margin: 5px;
 }
@@ -65,5 +65,5 @@ div.desc {
   font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
   width: 85px;
   margin: 2px;
-  color: #e1bfff;
+  color: white;
 }

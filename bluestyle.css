@@ -15,16 +15,16 @@ body {
     position:relative;
 }
 
-.sleepyhead {
+.ipad sleepyhead {
     position: absolute;
-    top: 0;
-    left: 0;
+    top: 0px;
+    left: 0px;
 }
 
-.byebyebuy {
+.ipad byebyebuy {
     position: absolute;
-    top: 50;
-    left: 0;
+    top: 50px;
+    left: 0px;
 }
 
 div.img {

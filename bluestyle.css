@@ -6,25 +6,33 @@ h1 {
 }
 
 body {
-    background-color: black;
+    background-color: blue;
 }
 
-.scroll {
+.ipad {
     margin: 0 auto;
-    width: 100%;
+    width: 413px;
+    height: 594px;
     text-align: center;
+    position:relative;
 }
 
-.button {
-    display:inline-block;
-    width:10px;
-    height:10px;
-    margin:6px;
-    border-radius:50px;
-    background:#d3d3d3;
+.sleepyhead {
+    position: absolute;
+    top: 30px;
+    left: 35px;
 }
-.button:hover {
-    background:#fff;
+
+.byebyebuy {
+    position: absolute;
+    top: 30px;
+    left: 148px;
+}
+
+.eventum {
+    position: absolute;
+    top: 30px;
+    left: 261px;
 }
 
 div.img {
@@ -37,7 +45,9 @@ div.img {
 }	
 
 div.img img {
-    border-radius: 25px; /* give rounded corners to the icons */
+    width: 90px;
+    height: 90px;
+    border-radius: 20px; /* give rounded corners to the icons */
     display: inline;
     margin: 5px;
 }
@@ -51,8 +61,9 @@ div.img a:hover img {
 
 div.desc {
   text-align: center;
+  font-size: 12px;
   font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
-  width: 120px;
-  margin: 5px;
-  color: #e1bfff;
+  width: 95px;
+  margin: 2px;
+  color: white;
 }

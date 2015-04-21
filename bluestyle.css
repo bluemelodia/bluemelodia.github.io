@@ -25,6 +25,13 @@ body {
 }
 .button:hover {
     background:#fff;
+    
+}
+#hover {
+    display:none;
+}
+.button:hover #hover {
+    display:block;
 }
 
 div.img {

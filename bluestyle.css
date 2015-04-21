@@ -20,6 +20,12 @@ body {
     position:absolute;
 }
 
+div.sleepyhead {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
 div.img {
     margin: 5px;
     padding: 5px;

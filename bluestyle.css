@@ -17,22 +17,14 @@ body {
 
 .button {
     display:inline-block;
-    width:120px;
-    height:120px;
+    width:10px;
+    height:10px;
     margin:6px;
     border-radius:50px;
     background:#d3d3d3;
 }
 .button:hover {
     background:#fff;
-}
-#hover {
-    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
-    color: #e1bfff;
-    display:none;
-}
-.button:hover #hover {
-    display:inline-block;
 }
 
 div.img {

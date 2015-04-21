@@ -11,12 +11,14 @@ body {
 
 .scroll {
     background-color: red;
+    position:relative;
     margin: 0 auto;
     width: 25%;
 }
 
 .button {
     display:inline-block;
+    position:absolute;
     width:10px;
     height:10px;
     margin:6px;

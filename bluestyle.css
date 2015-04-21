@@ -28,6 +28,7 @@ body {
     
 }
 #hover {
+    color: #e1bfff;
     display:none;
 }
 .button:hover #hover {

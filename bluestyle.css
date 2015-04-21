@@ -6,7 +6,7 @@ h1 {
 }
 
 body {
-    background-color: white;
+    background-color: blue;
 }
 
 .ipad {
@@ -19,8 +19,8 @@ body {
 
 .sleepyhead {
     position: absolute;
-    top: 15px;
-    left: 15px;
+    top: 30px;
+    left: 35px;
 }
 
 .byebyebuy {

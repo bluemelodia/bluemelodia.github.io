@@ -9,6 +9,11 @@ body {
     background-color: black;
 }
 
+.ipad {
+    margin: 0 auto;
+    text-align: center;
+}
+
 .scroll {
     margin: 0 auto;
     width: 100%;

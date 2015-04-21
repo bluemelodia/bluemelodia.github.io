@@ -25,9 +25,10 @@ body {
 }
 .button:hover {
     background:#fff;
-    
 }
 #hover {
+    margin-top: 5px;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
     color: #e1bfff;
     display:none;
 }

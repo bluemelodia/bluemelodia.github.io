@@ -46,8 +46,9 @@ div.img a:hover img {
 
 div.desc {
   text-align: center;
+  font-size: 10px;
   font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
   width: 120px;
-  margin: 5px;
+  margin: 2px;
   color: #e1bfff;
 }

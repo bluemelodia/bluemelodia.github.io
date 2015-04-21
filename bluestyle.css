@@ -15,14 +15,15 @@ body {
     position:relative;
 }
 
-.icons {
-    display:inline-block;
-    position:absolute;
-}
-
-div.sleepyhead {
+.sleepyhead {
     position: absolute;
     top: 0;
+    left: 0;
+}
+
+.byebyebuy {
+    position: absolute;
+    top: 50;
     left: 0;
 }
 

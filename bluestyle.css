@@ -11,6 +11,8 @@ body {
 
 .ipad {
     margin: 0 auto;
+    width: 413px;
+    height: 594px;
     text-align: center;
     position:relative;
 }

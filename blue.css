@@ -28,6 +28,18 @@ display: inline;
 padding: 20px;
 }
 
+/* remove text underline, set padding to 8px in all areas, which controls the position and size of the hover */
+#navBar a {
+    text-decoration: none;
+    color: #00F;
+    padding: 8px 8px 8px 8px;
+}
+
+/* setup hover effect */
+#navBar a:hover {
+    color: #F90;
+    background-color: #FFF;
+}
 
 /* #### Mobile Phones Portrait #### */
 @media screen and (max-device-width: 480px) and (orientation: portrait){

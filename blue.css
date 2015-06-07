@@ -2,7 +2,7 @@ body {
     background-color: lightblue;
 }
 
-navBar {
+#navBar {
     width: 550px;
     height: 35px;
     font-size: 16px;

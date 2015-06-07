@@ -1,28 +1,8 @@
-
-function getWidth() {
-  if (self.innerHeight) {
-    return self.innerWidth;
-  }
-
-  if (document.documentElement && document.documentElement.clientHeight) {
-    return document.documentElement.clientWidth;
-  }
-
-  if (document.body) {
-    return document.body.clientWidth;
-  }
-}
-
-function getHeight() {
-  if (self.innerHeight) {
-    return self.innerHeight;
-  }
-
-  if (document.documentElement && document.documentElement.clientHeight) {
-    return document.documentElement.clientHeight;
-  }
-
-  if (document.body) {
-    return document.body.clientHeight;
-  }
-}
+$(document).ready(function() {
+	$(".toggleMenu").css("display", "none");
+	$(".nav li").hover(function() {
+	 	$(this).addClass('hover');
+	}, function() {
+		$(this).removeClass('hover');
+	});
+});

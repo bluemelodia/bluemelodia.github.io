@@ -1,5 +1,13 @@
 .navBar {
-
+    width: 550px;
+    height: 35px;
+    font-size: 16px;
+    font-family: Tahoma, Geneva, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    text-shadow: 3px 2px 3px #333333;
+    background-color: #8AD9FF;
+    border-radius: 8px;
 }
 
 /* #### Mobile Phones Portrait #### */

@@ -24,8 +24,8 @@ body {
 /* change the positioning of the text so it fits into the menu and runs horizontally (inline),
 add padding to the text for horizontal positioning */
 #navBar li {
-display: inline;
-padding: 20px;
+    display: inline;
+    padding: 10px;
 }
 
 /* remove text underline, set padding to 8px in all areas, which controls the position and size of the hover */

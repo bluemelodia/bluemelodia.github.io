@@ -29,7 +29,7 @@ add padding to the text for horizontal positioning */
 /* remove text underline, set padding to 8px in all areas, which controls the position and size of the hover */
 #navBar a {
     text-decoration: none;
-    color: #9A56F4;
+    color: #BC89FF;
     padding: 8px 8px 8px 8px;
 }
 

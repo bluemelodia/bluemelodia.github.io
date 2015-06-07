@@ -21,6 +21,14 @@ body {
     margin: 0px;
 }
 
+/* change the positioning of the text so it fits into the menu and runs horizontally (inline),
+add padding to the text for horizontal positioning */
+#navBar li {
+display: inline;
+padding: 20px;
+}
+
+
 /* #### Mobile Phones Portrait #### */
 @media screen and (max-device-width: 480px) and (orientation: portrait){
   /* some CSS here */

@@ -3,15 +3,13 @@ body {
 }
 
 #navBar {
-    position: relative;
-    display: inline-block;
-    width: 98%;
+    width: 100%;
     height: 10%;
     font-size: 16px;
     font-family: Tahoma, Geneva, sans-serif;
     font-weight: normal;
     text-align: center;
-    background-color: #000000;
+    background-color: #652CAF;
 }
 
 /* Remove the default padding */
@@ -31,7 +29,7 @@ add padding to the text for horizontal positioning */
 /* remove text underline, set padding to 8px in all areas, which controls the position and size of the hover */
 #navBar a {
     text-decoration: none;
-    color: #00F;
+    color: #9A56F4;
     padding: 8px 8px 8px 8px;
 }
 

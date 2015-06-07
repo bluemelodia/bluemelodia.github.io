@@ -1,3 +1,7 @@
+body {
+    background-color: lightblue;
+}
+
 .navBar {
     width: 550px;
     height: 35px;

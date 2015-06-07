@@ -3,6 +3,7 @@ body {
 }
 
 #navBar {
+    position: relative;
     display: inline-block;
     width: 96%;
     height: 10%;

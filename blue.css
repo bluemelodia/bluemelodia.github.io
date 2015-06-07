@@ -15,7 +15,7 @@ a {text-decoration: none;}
 .nav {
     list-style: none;
      *zoom: 1;
-     background:#175e4c;
+     background:#03396c;
      position: relative;
 }
 .nav:before,
@@ -32,12 +32,12 @@ a {text-decoration: none;}
 }
 .nav a {
     padding: 10px 15px;
-    color:#fff;
+    color:#b3cde0;
     *zoom: 1;
 }
 .nav > li {
     float: left;
-    border-top: 1px solid #104336;
+    border-top: 1px solid #011f4b;
     z-index: 200;
 }
 .nav > li > a {

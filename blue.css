@@ -74,9 +74,20 @@ a {text-decoration: none;}
     top: 0;
 }
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 768px) {
+    .active {
+        display: block;
+    }
     .nav > li {
         float: none;
+    }
+    .nav > li > .parent {
+        background-position: 95% 50%;
+    }
+    .nav li li .parent {
+        background-image: url("images/downArrow.png");
+        background-repeat: no-repeat;
+        background-position: 95% 50%;
     }
     .nav ul {
         display: block;
@@ -85,4 +96,5 @@ a {text-decoration: none;}
    .nav > li.hover > ul , .nav li li.hover ul {
         position: static;
     }
+
 }

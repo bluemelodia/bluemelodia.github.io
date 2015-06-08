@@ -50,10 +50,10 @@ a {text-decoration: none;}
 }
 .nav li li a {
     display: block;
-    background: #847096;
+    background: #5f4c75;
     position: relative;
     z-index:100;
-    border-top: 1px solid #35204e;
+    border-top: 1px solid #7a6a8d; /* do not make much darker than the BG */
 }
 .nav li li li a {
     background:#a097a7;

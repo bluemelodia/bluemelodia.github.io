@@ -58,8 +58,9 @@ a {text-decoration: none;}
 }
 .nav li li li a {
     background:#a097a7;
+    color: #5f4c75;
     z-index:200;
-    border-top: 1px solid #35204e;
+    border-top: 1px solid #7a6a8d;
 }
 /* position the submenus relative to their parents when the .hover class is present */
 .nav li {

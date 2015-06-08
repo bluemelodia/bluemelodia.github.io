@@ -48,9 +48,10 @@ a {text-decoration: none;}
     left: -9999px;
     z-index: 100;
 }
-.nav li li a {
+.nav li li a { /* The second layer of tabs */
     display: block;
     background: #5f4c75;
+    color: #35204e;
     position: relative;
     z-index:100;
     border-top: 1px solid #7a6a8d; /* do not make much darker than the BG */

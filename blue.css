@@ -39,8 +39,6 @@ a {text-decoration: none;}
     float: left;
     border-top: 1px solid #35204e;
     z-index: 200;
-    text-align:center;
-    width: 16.6666666667%;
 }
 .nav > li > a {
     display: block;
@@ -62,11 +60,13 @@ a {text-decoration: none;}
     background:#a097a7;
     color: #5f4c75;
     z-index:200;
-    border-top: 1px solid #7a6a8d;
+    border-top: 1px solid #9d92aa;
 }
 /* position the submenus relative to their parents when the .hover class is present */
 .nav li {
     position: relative;
+    text-align:center;
+    width: 16.6666666667%;
 }
 .nav > li.hover > ul {
     left: 0;

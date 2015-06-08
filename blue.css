@@ -32,7 +32,7 @@ a {text-decoration: none;}
 }
 .nav a {
     padding: 10px 15px;
-    color:#d7bce3;
+    color:#d7bce3; /* A very bright font color */
     *zoom: 1;
 }
 .nav > li {
@@ -56,7 +56,7 @@ a {text-decoration: none;}
     border-top: 1px solid #35204e;
 }
 .nav li li li a {
-    background:#249578;
+    background:#a097a7;
     z-index:200;
     border-top: 1px solid #35204e;
 }

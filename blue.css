@@ -90,6 +90,7 @@ a {text-decoration: none;}
     }
     .nav > li > .parent {
         background-position: 95% 50%;
+        background-image: url("images/downArrow.png");
     }
     .nav li li .parent {
         background-image: url("images/downArrow.png");

@@ -17,7 +17,6 @@ a {text-decoration: none;}
      *zoom: 1;
      background:#35204e;
      position: relative;
-     width: 16.6666666667%;
 }
 .nav:before,
 .nav:after {
@@ -29,7 +28,7 @@ a {text-decoration: none;}
 }
 .nav ul {
     list-style: none;
-    width: 9em;
+    width: 16.6666666667%;;
 }
 .nav a {
     padding: 10px 15px;

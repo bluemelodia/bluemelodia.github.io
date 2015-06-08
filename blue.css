@@ -38,8 +38,6 @@ a {text-decoration: none;}
 .nav > li {
     float: left;
     border-top: 1px solid #35204e;
-    text-align:center;
-    width: 16.6666666667%;
     z-index: 200;
 }
 .nav > li > a {
@@ -74,6 +72,13 @@ a {text-decoration: none;}
 .nav li li.hover ul {
     left: 100%;
     top: 0;
+}
+
+@media screen and (min-width: 768px) {
+    .nav > li {
+        text-align:center;
+        width: 16.6666666667%;
+    }
 }
 
 @media screen and (max-width: 768px) {

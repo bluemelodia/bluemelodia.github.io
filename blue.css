@@ -39,6 +39,7 @@ a {text-decoration: none;}
     float: left;
     border-top: 1px solid #35204e;
     z-index: 200;
+    text-align:center;
     width: 16.6666666667%;
 }
 .nav > li > a {

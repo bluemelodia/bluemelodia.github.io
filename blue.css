@@ -1,5 +1,5 @@
 body, nav, ul, li, a  {margin: 0; padding: 0;}
-body {font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; }
+body {font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; background:#9d92aa;}
 a {text-decoration: none;}
 .container {
     width: 90%;
@@ -32,7 +32,7 @@ a {text-decoration: none;}
 }
 .nav a {
     padding: 10px 15px;
-    color:#9d92aa;
+    color:#5f4c75;
     *zoom: 1;
 }
 .nav > li {

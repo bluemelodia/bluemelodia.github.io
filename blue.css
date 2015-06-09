@@ -7,7 +7,7 @@ a {text-decoration: none;}
     margin: 10px auto;
     border: 1px dotted #35204e;
 }
-.content {
+.content { /* Get the text centered */
     width: 90%;
     text-align: center;
 }

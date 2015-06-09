@@ -7,6 +7,9 @@ a {text-decoration: none;}
     margin: 10px auto;
     border: 1px dotted #35204e;
 }
+.content {
+    width: 90%;
+}
 .container {
     width: 90%;
     max-width: 900px;

@@ -3,7 +3,7 @@ body {font-family: "Verdana", Helvetica, Arial, sans-serif; background:#9d92aa;}
 a {text-decoration: none;}
 .odd {
     width: 90%;
-    max-width: 898px;
+    max-width: 896px;
     max-height: 900px;
     margin: 10px auto;
     border: 2px dotted #35204e;

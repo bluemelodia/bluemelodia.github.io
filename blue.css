@@ -32,6 +32,20 @@ a {text-decoration: none;}
     font-weight:bold;
 }
 
+.left {
+    float:left;
+    width: 275px;
+}
+.mid {
+    display:inline-block;
+    margin: 0 auto;
+    width: 275px;
+}
+.right {
+    float:right;
+    width: 275px;
+}
+
 .toggleMenu {
     display:  none;
     background: #48355e;

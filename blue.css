@@ -9,9 +9,9 @@ a {text-decoration: none;}
     border: 1px dotted #35204e;
 }
 .content { /* Get the text centered */
-    width: 90%;
-    height: 90%;
-    margin: auto auto;
+    width: 95%;
+    height: 95%;
+    margin: 0 auto;
     border: 1px dotted #35204e;
 }
 .container {

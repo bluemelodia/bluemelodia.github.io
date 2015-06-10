@@ -7,12 +7,15 @@ a {text-decoration: none;}
     max-height: 900px;
     margin: 10px auto;
     border: 1px dotted #35204e;
+    display: table-cell;
+    vertical-align: middle;
 }
 .content { /* Get the text centered */
     width: 95%;
     height: 95%;
     margin: auto;
     border: 1px dotted #35204e;
+    display: block;
     font-size: 12px;
 }
 .container {

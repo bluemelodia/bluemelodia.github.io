@@ -34,17 +34,17 @@ a {text-decoration: none;}
 
 .left {
     float:left;
-    width: 33.3%;
+    width: 30%;
     border: 2px dotted #35204e;
 }
 .mid {
     margin: 0 auto;
-    width: 33.3%;
+    width: 30%;
     border: 2px dotted #35204e;
 }
 .right {
     float:right;
-    width: 33.3%;
+    width: 30%;
     border: 2px dotted #35204e;
 }
 

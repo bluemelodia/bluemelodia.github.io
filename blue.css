@@ -27,14 +27,14 @@ a {text-decoration: none;}
     max-width: 900px;
     margin: 10px auto;
 }
-.title {
+.title { /* For the project titles */
     text-align:center;
     font-weight:bold;
 }
 
-.mini {
+.mini { /* For the demos */
     float:left;
-    width: 25%;
+    width: 30%;
     border: 2px dotted #35204e;
 }
 

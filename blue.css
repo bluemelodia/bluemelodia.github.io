@@ -41,6 +41,7 @@ a {text-decoration: none;}
     width: 90%;
     max-width: 450px;
     margin: 0 auto;
+    border: 2px dotted #35204e;
 }
 
 .toggleMenu {

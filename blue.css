@@ -8,7 +8,6 @@ a {text-decoration: none;}
     margin: 10px auto;
     border: 2px dotted #35204e;
 }
-
 .even {
     width: 90%;
     max-width: 896px;
@@ -16,7 +15,6 @@ a {text-decoration: none;}
     margin: 10px auto;
     border: 2px dotted #b19cd9;
 }
-
 .content { /* Get the text centered */
     width: 95%;
     height: 95%;
@@ -29,6 +27,11 @@ a {text-decoration: none;}
     max-width: 900px;
     margin: 10px auto;
 }
+.title {
+    text-align:center;
+    font-size:16px bold;
+}
+
 .toggleMenu {
     display:  none;
     background: #48355e;

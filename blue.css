@@ -32,10 +32,13 @@ a {text-decoration: none;}
     font-weight:bold;
 }
 
-.mini { /* For the demos */
+.mini { /* For the images */
     float:left;
     width: 32.5%;
     border: 2px dotted #35204e;
+}
+.macro { /* For demos */
+    margin: 0 auto;
 }
 
 .toggleMenu {

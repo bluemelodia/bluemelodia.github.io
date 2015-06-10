@@ -39,6 +39,7 @@ a {text-decoration: none;}
 }
 .demo { /* For demos */
     width: 90%;
+    max-width: 450px;
     margin: 0 auto;
 }
 

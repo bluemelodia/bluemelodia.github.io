@@ -4,7 +4,7 @@ a {text-decoration: none;}
 .odd {
     width: 90%;
     max-width: 896px;
-    max-height: 1500px;
+    /*max-height: 1500px;*/
     margin: 10px auto;
     border: 2px dotted #35204e;
 }

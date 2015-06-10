@@ -8,7 +8,6 @@ a {text-decoration: none;}
     border: 1px dotted #35204e;
 }
 .content { /* Get the text centered */
-    display: inline-block;
     width: 90%;
     height: 90%;
     padding: 2px;

@@ -37,7 +37,7 @@ a {text-decoration: none;}
     width: 32.5%;
     border: 2px dotted #35204e;
 }
-.macro { /* For demos */
+.demo { /* For demos */
     width: 400px;
     margin: 0 auto;
 }

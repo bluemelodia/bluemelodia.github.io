@@ -146,6 +146,6 @@ a {text-decoration: none;}
         width: 100%;
     }
     .demo {
-        max-width: 90%;
+        max-width: 300px;
     }
 }

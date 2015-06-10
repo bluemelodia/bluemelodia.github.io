@@ -1,5 +1,5 @@
 body, nav, ul, li, a  {margin: 0; padding: 0;}
-body {font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; background:#9d92aa;}
+body {font-family: "Verdana", Helvetica, Arial, sans-serif; background:#9d92aa;}
 a {text-decoration: none;}
 .odd {
     width: 90%;

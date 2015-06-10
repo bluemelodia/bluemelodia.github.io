@@ -6,13 +6,12 @@ a {text-decoration: none;}
     max-width: 900px;
     max-height: 900px;
     margin: 10px auto;
-    border: 1px dotted #35204e;
+    border: 3px dotted #35204e;
 }
 .content { /* Get the text centered */
     width: 95%;
     height: 95%;
     margin: auto;
-    border: 1px dotted #35204e;
     display: block;
     font-size: 13px;
 }

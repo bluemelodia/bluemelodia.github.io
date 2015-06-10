@@ -37,10 +37,11 @@ a {text-decoration: none;}
     border: 2px dotted #35204e;
 }
 .demo { /* For demos */
-    width: 90%;
-    max-width: 450px;
-    min-height: 90%;
-    margin: 0 auto;
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 35px;
+    height: 0;
+    overflow: hidden;
     border: 2px dotted #35204e;
 }
 

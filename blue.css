@@ -8,8 +8,9 @@ a {text-decoration: none;}
     border: 1px dotted #35204e;
 }
 .content { /* Get the text centered */
+    display: inline-block;
     width: 90%;
-    text-align: center;
+    margin: 2px;
 }
 .container {
     width: 90%;

@@ -11,7 +11,6 @@ a {text-decoration: none;}
 .even {
     width: 90%;
     max-width: 896px;
-    min-height: 1500px;
     margin: 10px auto;
     border: 2px dotted #b19cd9;
 }
@@ -40,6 +39,7 @@ a {text-decoration: none;}
 .demo { /* For demos */
     width: 90%;
     max-width: 450px;
+    min-height: 300px;
     margin: 0 auto;
     border: 2px dotted #35204e;
 }

@@ -39,7 +39,7 @@ a {text-decoration: none;}
 .demo { /* For demos */
     width: 90%;
     max-width: 450px;
-    min-height: 300px;
+    min-height: 90%;
     margin: 0 auto;
     border: 2px dotted #35204e;
 }

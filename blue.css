@@ -13,6 +13,7 @@ a {text-decoration: none;}
     height: 95%;
     margin: auto;
     border: 1px dotted #35204e;
+    font-size: 12px;
 }
 .container {
     width: 90%;

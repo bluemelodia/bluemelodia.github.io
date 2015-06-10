@@ -10,7 +10,8 @@ a {text-decoration: none;}
 .content { /* Get the text centered */
     display: inline-block;
     width: 90%;
-    margin: 2px;
+    height: 90%;
+    padding: 2px;
 }
 .container {
     width: 90%;

@@ -32,17 +32,7 @@ a {text-decoration: none;}
     font-weight:bold;
 }
 
-.left {
-    float:left;
-    width: 25%;
-    border: 2px dotted #35204e;
-}
-.mid {
-    float:left;
-    width: 25%;
-    border: 2px dotted #35204e;
-}
-.right {
+.mini {
     float:left;
     width: 25%;
     border: 2px dotted #35204e;

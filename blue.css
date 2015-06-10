@@ -11,7 +11,8 @@ a {text-decoration: none;}
 .content { /* Get the text centered */
     width: 95%;
     height: 95%;
-    margin: 0 auto;
+    margin: auto;
+    position: absolute;
     border: 1px dotted #35204e;
 }
 .container {

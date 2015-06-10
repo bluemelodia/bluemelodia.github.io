@@ -137,8 +137,7 @@ a {text-decoration: none;}
    .nav > li.hover > ul , .nav li li.hover ul {
         position: static;
     }
-    .left, .med, .right {
-        display:inline-block
-        width: 90%;
+    .mini {
+        width: 100%;
     }
 }

@@ -35,15 +35,18 @@ a {text-decoration: none;}
 .left {
     float:left;
     width: 275px;
+    border: 2px dotted #35204e;
 }
 .mid {
     display:inline-block;
     margin: 0 auto;
     width: 275px;
+    border: 2px dotted #35204e;
 }
 .right {
     float:right;
     width: 275px;
+    border: 2px dotted #35204e;
 }
 
 .toggleMenu {

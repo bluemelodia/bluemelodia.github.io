@@ -38,12 +38,12 @@ a {text-decoration: none;}
     border: 2px dotted #35204e;
 }
 .mid {
-    margin: 0 auto;
+    float:left;
     width: 25%;
     border: 2px dotted #35204e;
 }
 .right {
-    float:right;
+    float:left;
     width: 25%;
     border: 2px dotted #35204e;
 }

@@ -11,6 +11,7 @@ a {text-decoration: none;}
     width: 90%;
     height: 90%;
     padding: 2px;
+    margin: 0 auto;
     border: 1px dotted #35204e;
 }
 .container {

@@ -76,10 +76,14 @@ a {text-decoration: none;}
 
 .icon-sleepy {
     background-image: url('../images/icons/SleepyHead.png');
+    width: 90px;
+    height: 90px;
 }
 
 .icon-bye {
     background-image: url('../images/icons/BuyBuyBye.png');
+    width: 90px;
+    height: 90px;
 }
 
 .toggleMenu {

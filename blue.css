@@ -166,4 +166,8 @@ a {text-decoration: none;}
     .mini {
         width: 100%;
     }
+    .demo img {
+        width: 100%;
+        height: 100%;
+    }
 }

@@ -74,6 +74,14 @@ a {text-decoration: none;}
     height: 100%;
 }
 
+.icon-sleepy {
+    background-image: url('images/icons/SleepyHead.png');
+}
+
+.icon-bye {
+    background-image: url('images/icons/BuyBuyBye.png');
+}
+
 .toggleMenu {
     display:  none;
     background: #48355e;

@@ -80,6 +80,9 @@ a {text-decoration: none;}
     background-image: url('../images/icons/SleepyHead.png');
     width: 90px;
     height: 90px;
+    position: absolute;
+    top: 10px;
+    left: 10px;
 }
 
 .icon-bye {
@@ -88,6 +91,9 @@ a {text-decoration: none;}
     background-image: url('../images/icons/BuyBuyBye.png');
     width: 90px;
     height: 90px;
+    position: absolute;
+    top: 10px;
+    left: 10px;
 }
 
 .toggleMenu {

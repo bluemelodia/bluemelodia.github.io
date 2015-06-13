@@ -142,14 +142,14 @@ a {text-decoration: none;}
 .nav li li a { /* The second layer of tabs */
     display: block;
     background: #9979ad;
-    color: #35204e;
+    color: #5f4c75;
     position: relative;
     z-index:100;
     border-top: 1px solid #9979ad; /* do not make much darker than the BG */
 }
 .nav li li li a {
     background:#c8afd1;
-    color: #5f4c75;
+    color: #35204e;
     z-index:200;
     border-top: 1px solid #c8afd1;
 }

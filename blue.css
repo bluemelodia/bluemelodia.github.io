@@ -148,10 +148,10 @@ a {text-decoration: none;}
     border-top: 1px solid #5f4c75; /* do not make much darker than the BG */
 }
 .nav li li li a {
-    background:#a097a7;
+    background:#9979ad;
     color: #5f4c75;
     z-index:200;
-    border-top: 1px solid #a097a7;
+    border-top: 1px solid #9979ad;
 }
 /* position the submenus relative to their parents when the .hover class is present */
 .nav li {

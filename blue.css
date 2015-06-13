@@ -7,7 +7,6 @@ a {text-decoration: none;}
     /*max-height: 1500px;*/
     margin: 10px auto;
     border: 2px dotted #35204e;
-    position: relative;
 }
 .even {
     width: 90%;
@@ -15,7 +14,6 @@ a {text-decoration: none;}
     max-height: 500px;
     margin: 10px auto;
     border: 2px dotted #b19cd9;
-    position: relative;
 }
 
 .small {
@@ -82,7 +80,6 @@ a {text-decoration: none;}
     background-image: url('../images/icons/SleepyHead.png');
     width: 90px;
     height: 90px;
-    position: absolute;
     top: 10px;
     left: 10px;
 }
@@ -93,7 +90,6 @@ a {text-decoration: none;}
     background-image: url('../images/icons/BuyBuyBye.png');
     width: 90px;
     height: 90px;
-    position: absolute;
     top: 10px;
     left: 10px;
 }

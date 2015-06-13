@@ -14,6 +14,13 @@ a {text-decoration: none;}
     margin: 10px auto;
     border: 2px dotted #b19cd9;
 }
+
+.small {
+    width: 90%;
+    margin: 10px auto;
+    border: 2px dotted #b19cd9;
+}
+
 .content { /* Get the text centered */
     width: 95%;
     height: 95%;

@@ -60,8 +60,10 @@ a {text-decoration: none;}
     left: 0;
     right: 0;
     bottom: 0;
-    width: 605px;
-    height: 477px;
+    max-width: 605px;
+    max-height: 477px;
+    width: 79%;
+    height: 100%;
 }
 
 .toggleMenu {
@@ -166,8 +168,8 @@ a {text-decoration: none;}
     .mini {
         width: 100%;
     }
-    .demo img {
+    /*.demo img {
         width: 79%;
         height: 100%;
-    }
+    }*/
 }

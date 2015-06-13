@@ -10,6 +10,7 @@ a {text-decoration: none;}
 }
 .even {
     width: 90%;
+    max-height: 706px;
     max-width: 896px;
     margin: 10px auto;
     border: 2px dotted #b19cd9;

@@ -97,16 +97,16 @@ a {text-decoration: none;}
     left: 5px;
 }
 
-.toggleMenu {
+.toggleMenu { /* the menu button that appears on small screens */
     display:  none;
     background: #462556;
     padding: 10px 15px;
     color: #ba99c3;
 }
-.nav {
+.nav { /* the navigation bar */
     list-style: none;
      *zoom: 1;
-     background:#715899;
+     background:#462556;
      position: relative;
 }
 .nav:before,
@@ -123,7 +123,7 @@ a {text-decoration: none;}
 }
 .nav a {
     padding: 10px 15px;
-    color:#C8afd1; /* A very bright font color */
+    color:#ba99c3; /* A very bright font color */
     *zoom: 1;
 }
 .nav > li {

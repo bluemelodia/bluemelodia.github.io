@@ -75,12 +75,18 @@ a {text-decoration: none;}
 }
 
 .icon-sleepy {
+    border-radius: 20px; /* give rounded corners to the icons */
+    display: inline;
+    margin: 5px;
     background-image: url('../images/icons/SleepyHead.png');
     width: 90px;
     height: 90px;
 }
 
 .icon-bye {
+    border-radius: 20px; /* give rounded corners to the icons */
+    display: inline;
+    margin: 5px;
     background-image: url('../images/icons/BuyBuyBye.png');
     width: 90px;
     height: 90px;

@@ -76,24 +76,24 @@ a {text-decoration: none;}
 }
 
 .icon-sleepy {
-    border-radius: 20px; /* give rounded corners to the icons */
+    border-radius: 10px; /* give rounded corners to the icons */
     margin: 5px;
     background-image: url('../images/icons/SleepyHead.png');
     background-size:contain;
-    width: 90px;
-    height: 90px;
+    width: 60px;
+    height: 60px;
     top: 5px;
     left: 5px;
 }
 
 .icon-bye {
-    border-radius: 20px; /* give rounded corners to the icons */
+    border-radius: 10px; /* give rounded corners to the icons */
     margin: 5px;
     background-image: url('../images/icons/BuyBuyBye.png');
     background-size:contain;
-    width: 90px;
-    height: 90px;
-    top: 5x;
+    width: 60px;
+    height: 60px;
+    top: 5px;
     left: 5px;
 }
 

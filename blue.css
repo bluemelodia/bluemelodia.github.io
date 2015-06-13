@@ -19,7 +19,7 @@ a {text-decoration: none;}
 .small {
     width: 90%;
     margin: 10px auto;
-    border: 2px dotted #b19cd9;
+    /*border: 2px dotted #b19cd9;*/
 }
 
 .content { /* Get the text centered */

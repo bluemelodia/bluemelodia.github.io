@@ -99,14 +99,14 @@ a {text-decoration: none;}
 
 .toggleMenu { /* the menu button that appears on small screens */
     display:  none;
-    background: #462556;
+    background: #7e5899;
     padding: 10px 15px;
     color: #ba99c3;
 }
 .nav { /* the navigation bar */
     list-style: none;
      *zoom: 1;
-     background:#462556;
+     background:#7e5899;
      position: relative;
 }
 .nav:before,

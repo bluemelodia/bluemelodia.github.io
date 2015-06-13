@@ -75,11 +75,11 @@ a {text-decoration: none;}
 }
 
 .icon-sleepy {
-    background-image: url('images/icons/SleepyHead.png');
+    background-image: url('../images/icons/SleepyHead.png');
 }
 
 .icon-bye {
-    background-image: url('images/icons/BuyBuyBye.png');
+    background-image: url('../images/icons/BuyBuyBye.png');
 }
 
 .toggleMenu {

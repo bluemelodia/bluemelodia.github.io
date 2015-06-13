@@ -43,6 +43,7 @@ a {text-decoration: none;}
     height: 0;
     margin: 0 auto;
     overflow: hidden;
+    border: 2px dotted #b19cd9;
 } /* http://www.smashingmagazine.com/2014/02/27/making-embedded-content-work-in-responsive-design/ */
 
 .demo iframe {

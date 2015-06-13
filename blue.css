@@ -78,6 +78,7 @@ a {text-decoration: none;}
     border-radius: 20px; /* give rounded corners to the icons */
     margin: 5px;
     background-image: url('../images/icons/SleepyHead.png');
+    background-size:contain;
     width: 90px;
     height: 90px;
     top: 5px;
@@ -88,6 +89,7 @@ a {text-decoration: none;}
     border-radius: 20px; /* give rounded corners to the icons */
     margin: 5px;
     background-image: url('../images/icons/BuyBuyBye.png');
+    background-size:contain;
     width: 90px;
     height: 90px;
     top: 5x;

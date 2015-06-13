@@ -123,12 +123,12 @@ a {text-decoration: none;}
 }
 .nav a {
     padding: 10px 15px;
-    color:#ba99c3; /* A very bright font color */
+    color:#f4f1fa; /* A very bright font color */
     *zoom: 1;
 }
 .nav > li {
     float: left;
-    border-top: 1px solid #462556;
+    border-top: 1px solid #7e5899;
     z-index: 200;
 }
 .nav > li > a {

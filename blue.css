@@ -35,6 +35,7 @@ a {text-decoration: none;}
     margin: 10px auto;
 }
 .title { /* For the project titles */
+    top: 10px;
     text-align:center;
     font-weight:bold;
 }

@@ -13,7 +13,7 @@ a {text-decoration: none;}
     max-width: 896px;
     max-height: 500px;
     margin: 10px auto;
-    border: 2px dotted #b19cd9;
+    /*border: 2px dotted #b19cd9;*/
 }
 
 .small {

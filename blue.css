@@ -122,9 +122,9 @@ ul.maximize{
 ul.maximize li{
     display:inline-block; /*places the images in a line*/
     position: relative;
-    width: 33%;
+    width: 30%;
     z-index: 0; /*resets the stack order of the list items */
-    margin:10px 40px 0 20px;
+    margin:5px 5px 5px 5px;
 }
 ul.maximize img{
     -webkit-box-shadow: 0 0 6px rgba(132, 132, 132, .75);

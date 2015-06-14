@@ -204,13 +204,20 @@ a {text-decoration: none;}
     .mini {
         width: 100%;
     }
+    
+    /* otherwise, the title image will be too small on mobile */
     .even {
-        width: 100%; /* otherwise, the title image will be too small on mobile */
+        width: 100%; 
+    }
+    .demo img {
+        width: 100%;
     }
     .small {
         width: 100%;
     }
+    
+    /* keep this from becoming too big in proportion to the title image */
     .title img {
-        max-height: 40px; /* keep this from becoming too big in proportion to the title image */
+        max-height: 30px; 
     }
 }

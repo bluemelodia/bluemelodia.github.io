@@ -24,6 +24,7 @@ a {text-decoration: none;}
     margin: auto;
     display: block;
     font-size: 13px;
+    border: 2px dotted #35204e;
 }
 .container {
     width: 90%;

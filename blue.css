@@ -6,19 +6,16 @@ a {text-decoration: none;}
     max-width: 896px;
     /*max-height: 1500px;*/
     margin: 10px auto;
-    border: 2px dotted #35204e;
 }
 .even {
     width: 90%;
     max-width: 896px;
     margin: 10px auto;
-    border: 2px dotted #b19cd9;
 }
 
 .small {
     width: 90%;
     margin: 10px auto;
-    border: 2px dotted #b19cd9;
 }
 
 .content { /* Get the text centered */
@@ -42,6 +39,7 @@ a {text-decoration: none;}
     display: block;
     margin-left: auto;
     margin-right: auto;
+    max-width: 50%;
 }
 
 .mini { /* For the images */
@@ -213,10 +211,5 @@ a {text-decoration: none;}
     }
     .small {
         width: 100%;
-    }
-    
-    /* keep this from becoming too big in proportion to the title image */
-    .title img {
-        max-height: 0.2*width; 
     }
 }

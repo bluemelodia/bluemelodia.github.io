@@ -127,8 +127,6 @@ ul.maximize li{
     margin:10px 40px 0 20px;
 }
 ul.maximize img{
-    background-color:#eae9d4;
-    padding: 6px;
     -webkit-box-shadow: 0 0 6px rgba(132, 132, 132, .75);
     -moz-box-shadow: 0 0 6px rgba(132, 132, 132, .75);
     box-shadow: 0 0 6px rgba(132, 132, 132, .75);

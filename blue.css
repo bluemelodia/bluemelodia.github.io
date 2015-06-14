@@ -116,16 +116,9 @@ a {text-decoration: none;}
     left: 5px;
 }
 ul.maximize{
-    list-style-type:none; /*remove the bullet point*/
     margin-left:0;
 }
-ul.maximize li{
-    display:inline-block; /*places the images in a line*/
-    position: relative;
-    width: 30%;
-    z-index: 0; /*resets the stack order of the list items */
-    margin:5px 5px 5px 5px;
-}
+
 ul.maximize img{
     -webkit-box-shadow: 0 0 6px rgba(132, 132, 132, .75);
     -moz-box-shadow: 0 0 6px rgba(132, 132, 132, .75);

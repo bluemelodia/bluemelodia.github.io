@@ -118,7 +118,7 @@ a {text-decoration: none;}
 
 .maximize{
     margin: 0 auto;
-    border: 2px #000000;
+    border: 2px dotted #000000;
 }
 
 .maximize img{

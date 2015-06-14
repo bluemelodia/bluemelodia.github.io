@@ -131,6 +131,18 @@ a {text-decoration: none;}
     border-radius: 4px;
 }
 
+.maximize left {
+    float:left;
+}
+
+.maximize middle {
+    margin: 0 auto;
+}
+
+.maximize right {
+    float:right;
+}
+
 .toggleMenu { /* the menu button that appears on small screens */
     display:  none;
     background: #7e5899;

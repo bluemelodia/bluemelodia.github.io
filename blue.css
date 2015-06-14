@@ -40,6 +40,12 @@ a {text-decoration: none;}
     border: 2px dotted #000000;
 }
 
+.title img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 .mini { /* For the images */
     float:left;
     width: 32.5%;

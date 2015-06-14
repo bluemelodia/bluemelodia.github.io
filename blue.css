@@ -217,6 +217,6 @@ a {text-decoration: none;}
     
     /* keep this from becoming too big in proportion to the title image */
     .title img {
-        max-height: 30px; 
+        max-height: 0.2*width; 
     }
 }

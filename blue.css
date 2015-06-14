@@ -174,7 +174,7 @@ a {text-decoration: none;}
     top: 0;
 }
 
-@media screen and (max-width: 900px) {
+@media screen and (max-width: 1000px) {
     /* don't allow the divs to fill the full screen on mobile */
     .even, .odd {
         width: 90%; 

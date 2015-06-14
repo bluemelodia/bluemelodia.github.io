@@ -207,6 +207,9 @@ a {text-decoration: none;}
     .even {
         width: 100%; /* otherwise, the title image will be too small on mobile */
     }
+    .small {
+        width: 100%;
+    }
     .title img {
         max-height: 40px; /* keep this from becoming too big in proportion to the title image */
     }

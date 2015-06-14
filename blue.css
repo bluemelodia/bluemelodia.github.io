@@ -206,6 +206,9 @@ a {text-decoration: none;}
         width: 100%;
     }
     .even {
-        width: 100%; /* otherwise, the picture will be too small on mobile */
+        width: 100%; /* otherwise, the title image will be too small on mobile */
+    }
+    .title img {
+        max-height: 40px; /* keep this from becoming too big in proportion to the title image */
     }
 }

@@ -36,8 +36,7 @@ a {text-decoration: none;}
 }
 .title { /* For the project titles */
     top: 10px;
-    text-align:center;
-    font-weight:bold;
+    margin: 0 auto;
 }
 
 .mini { /* For the images */

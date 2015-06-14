@@ -78,7 +78,7 @@ window.document.onkeydown = function (e)
 /* This script makes light and fade divs visible by setting their display properties to block.
 Also scrolls the browser to top of the page to make sure the popup will be on middle of the screen.*/
 function lightbox_open(){
-    window.scrollTo(0,0);
+    //window.scrollTo(0,0);
     document.getElementById('light').style.display='block';
     document.getElementById('fade').style.display='block';  
 }

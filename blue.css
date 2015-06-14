@@ -121,6 +121,7 @@ a {text-decoration: none;}
 }
 
 .maximize img{
+    width: 25%;
     -webkit-box-shadow: 0 0 6px rgba(132, 132, 132, .75);
     -moz-box-shadow: 0 0 6px rgba(132, 132, 132, .75);
     box-shadow: 0 0 6px rgba(132, 132, 132, .75);

@@ -2,10 +2,11 @@ body, nav, ul, li, a  {margin: 0; padding: 0;}
 body {font-family: "Verdana", Helvetica, Arial, sans-serif; background:#e9e3f4;}
 a {text-decoration: none;}
 .odd {
-    width: 90%;
+    width: 100%;
     max-width: 896px;
     /*max-height: 1500px;*/
     margin: 10px auto;
+    border: 2px dotted #35204e;
 }
 .even {
     width: 90%;

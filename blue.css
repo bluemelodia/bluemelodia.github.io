@@ -115,11 +115,12 @@ a {text-decoration: none;}
     top: 5px;
     left: 5px;
 }
-ul.maximize{
+
+.maximize{
     margin-left:0;
 }
 
-ul.maximize img{
+.maximize img{
     -webkit-box-shadow: 0 0 6px rgba(132, 132, 132, .75);
     -moz-box-shadow: 0 0 6px rgba(132, 132, 132, .75);
     box-shadow: 0 0 6px rgba(132, 132, 132, .75);

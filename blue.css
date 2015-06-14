@@ -204,6 +204,9 @@ a {text-decoration: none;}
     .even, .odd {
         width: 90%; 
     }
+    .maximize img{
+        width: 65%;   
+    }
 }
 
 @media screen and (min-width: 768px) {

@@ -205,7 +205,8 @@ a {text-decoration: none;}
         width: 90%; 
     }
     .maximize img{
-        width: 65%;   
+        width: 50%;   
+        margin: 0 auto;
     }
 }
 

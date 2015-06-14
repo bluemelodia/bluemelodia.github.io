@@ -248,4 +248,9 @@ a {text-decoration: none;}
     .small {
         width: 100%;
     }
+    
+    /* let the images go one after the other in mobile */
+    .maximize img{
+        width: 100%;   
+    }
 }

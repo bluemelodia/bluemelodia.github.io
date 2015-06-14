@@ -103,9 +103,8 @@ a {text-decoration: none;}
     background-size:contain;
     width: 64px;
     height: 64px;
-    top: 5px;
+    top: 0px;
     left: 5px;
-    border: 2px #000000;
 }
 
 .icon-bye {

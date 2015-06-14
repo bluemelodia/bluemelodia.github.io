@@ -121,7 +121,7 @@ a {text-decoration: none;}
     border: 2px dotted #000000;
 }
 
-.maximize img{
+.maximize left, middle, right img{
     width: 32.9%;
     -webkit-box-shadow: 0 0 6px rgba(132, 132, 132, .75);
     -moz-box-shadow: 0 0 6px rgba(132, 132, 132, .75);
@@ -133,14 +133,17 @@ a {text-decoration: none;}
 
 .maximize left {
     float:left;
+    border: 2px dotted #000000;
 }
 
 .maximize middle {
     margin: 0 auto;
+    border: 2px dotted #000000;
 }
 
 .maximize right {
     float:right;
+    border: 2px dotted #000000;
 }
 
 .toggleMenu { /* the menu button that appears on small screens */

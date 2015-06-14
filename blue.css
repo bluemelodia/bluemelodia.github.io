@@ -209,10 +209,12 @@ a {text-decoration: none;}
         width: 100%;
     }
     
-    /* otherwise, the title image will be too small on mobile */
-    .even {
-        width: 100%; 
+    /* don't allow the divs to fill the full screen on mobile */
+    .even, .odd {
+        width: 90%; 
     }
+    
+    /* otherwise, the title image will be too small on mobile */
     .demo img {
         width: 100%;
     }

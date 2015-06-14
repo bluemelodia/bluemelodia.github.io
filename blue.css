@@ -34,11 +34,6 @@ a {text-decoration: none;}
     max-width: 900px;
     margin: 10px auto;
 }
-.title { /* For the project titles */
-    top: 10px;
-    margin: 0 auto;
-    border: 2px dotted #000000;
-}
 
 .mini { /* For the images */
     float:left;

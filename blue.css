@@ -199,8 +199,7 @@ a {text-decoration: none;}
     .mini {
         width: 100%;
     }
-    /*.demo img {
-        width: 79%;
-        height: 100%;
-    }*/
+    .even {
+        width: 100%; /* otherwise, the picture will be too small on mobile */
+    }
 }

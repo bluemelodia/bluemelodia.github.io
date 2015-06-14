@@ -122,7 +122,8 @@ ul.maximize{
 ul.maximize li{
     display:inline-block; /*places the images in a line*/
     position: relative;
-    z-index: 0; /*resets the stack order of the list items - later we'll increase this*/
+    width: 33%;
+    z-index: 0; /*resets the stack order of the list items */
     margin:10px 40px 0 20px;
 }
 ul.maximize img{

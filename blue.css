@@ -20,8 +20,8 @@ a {text-decoration: none;}
 }
 
 .content { /* Get the text centered */
-    width: 95%;
-    height: 95%;
+    width: 90%;
+    height: 90%;
     margin: auto;
     display: block;
     font-size: 13px;

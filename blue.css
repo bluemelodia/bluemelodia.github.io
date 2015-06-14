@@ -121,27 +121,13 @@ a {text-decoration: none;}
 }
 
 .maximize img{
+    width: 30%;
     -webkit-box-shadow: 0 0 6px rgba(132, 132, 132, .75);
     -moz-box-shadow: 0 0 6px rgba(132, 132, 132, .75);
     box-shadow: 0 0 6px rgba(132, 132, 132, .75);
     -webkit-border-radius: 4px;
     -moz-border-radius: 4px;
     border-radius: 4px;
-}
-
-.maximize left {
-    width: 25%;
-    float: left;
-}
-
-.maximize middle {
-    width: 25%;
-    margin:0 auto;
-}
-
-.maximize right {
-    width: 25%;
-    float: right;
 }
 
 .toggleMenu { /* the menu button that appears on small screens */

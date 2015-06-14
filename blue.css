@@ -1,6 +1,11 @@
 body, nav, ul, li, a  {margin: 0; padding: 0;}
 body {font-family: "Verdana", Helvetica, Arial, sans-serif; background:#e9e3f4;}
 a {text-decoration: none;}
+.head {
+    width: 90%;
+    max-width: 896px;
+    margin: 10px auto;
+}
 .odd {
     width: 100%;
     max-width: 900px;

@@ -37,6 +37,7 @@ a {text-decoration: none;}
 .title { /* For the project titles */
     top: 10px;
     margin: 0 auto;
+    border: 2px dotted #000000;
 }
 
 .mini { /* For the images */

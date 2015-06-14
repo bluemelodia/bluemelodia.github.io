@@ -6,7 +6,7 @@ a {text-decoration: none;}
     max-width: 896px;
     /*max-height: 1500px;*/
     margin: 10px auto;
-    border: 2px dotted #35204e;
+    background:#ded5ef;
 }
 .even {
     width: 90%;

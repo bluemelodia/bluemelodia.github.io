@@ -98,18 +98,16 @@ a {text-decoration: none;}
 
 .icon-sleepy {
     border-radius: 10px; /* give rounded corners to the icons */
-    /*margin: 5px;*/
     background-image: url('../images/icons/SleepyHead.png');
     background-size:contain;
     width: 64px;
     height: 64px;
-    top: 0px;
+    top: 5px;
     left: 5px;
 }
 
 .icon-bye {
     border-radius: 10px; /* give rounded corners to the icons */
-    margin: 5px;
     background-image: url('../images/icons/BuyBuyBye.png');
     background-size:contain;
     width: 64px;

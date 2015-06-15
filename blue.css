@@ -119,6 +119,7 @@ a {text-decoration: none;}
 .maximize{
     margin: 0 auto;
     border: 1px dotted #000000;
+    overflow:hidden;
 }
 
 .left {

@@ -242,10 +242,6 @@ a {text-decoration: none;}
     .even, .odd {
         width: 90%; 
     }
-    .maximize img{
-        width: 50%;   
-        margin: 0 auto;
-    }
 }
 
 @media screen and (min-width: 768px) {
@@ -292,7 +288,7 @@ a {text-decoration: none;}
     }
     
     /* let the images go one after the other in mobile */
-    .maximize img{
-        width: 100%;   
+    .left, .mid, .right {
+        width: 100%;
     }
 }

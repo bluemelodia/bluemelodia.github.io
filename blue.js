@@ -1,4 +1,3 @@
-
 var ww = document.body.clientWidth;
 
 $(document).ready(function() {
@@ -48,6 +47,8 @@ var adjustMenu = function() {
 	}
 }
 
+/*  Smooth scrolling
+    source: https://css-tricks.com/snippets/jquery/smooth-scrolling/*/
 $(function() {
   $('a[href*=#]:not([href=#])').click(function() {
     if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
@@ -62,29 +63,3 @@ $(function() {
     }
   });
 });
-
-/* checks if any key pressed; if pressed it calls lighthouse_close()
-source: http://1stwebmagazine.com/create-css-popup-with-lightbox-effect*/
-window.document.onkeydown = function (e)
-{
-    if (!e){
-        e = event;
-    }
-    if (e.keyCode == 27){
-        lightbox_close();
-    }
-}
-
-/* This script makes light and fade divs visible by setting their display properties to block.
-Also scrolls the browser to top of the page to make sure the popup will be on middle of the screen.*/
-function lightbox_open(){
-    //window.scrollTo(0,0);
-    document.getElementById('light').style.display='block';
-    document.getElementById('fade').style.display='block';  
-}
-
-/* This makes light and fade divs invisible by setting their display properties to none. */
-function lightbox_close(){
-    document.getElementById('light').style.display='none';
-    document.getElementById('fade').style.display='none';
-}

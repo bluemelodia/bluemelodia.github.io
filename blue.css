@@ -121,7 +121,7 @@ a {text-decoration: none;}
     border: 2px dotted #000000;
 }
 
-.maximize left, middle, right img{
+.left, .middle, .right img{
     width: 32.9%;
     -webkit-box-shadow: 0 0 6px rgba(132, 132, 132, .75);
     -moz-box-shadow: 0 0 6px rgba(132, 132, 132, .75);
@@ -131,17 +131,17 @@ a {text-decoration: none;}
     border-radius: 4px;
 }
 
-.maximize left {
+.left {
     float:left;
     border: 2px dotted #000000;
 }
 
-.maximize middle {
+.middle {
     margin: 0 auto;
     border: 2px dotted #000000;
 }
 
-.maximize right {
+.right {
     float:right;
     border: 2px dotted #000000;
 }

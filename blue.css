@@ -291,5 +291,6 @@ a {text-decoration: none;}
     /* let the images go one after the other in mobile */
     .left, .mid, .right {
         width: 60%;
+        margin: 0 auto;
     }
 }

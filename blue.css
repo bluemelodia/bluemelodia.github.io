@@ -124,20 +124,20 @@ a {text-decoration: none;}
 .left {
     float:left;
     border: 2px dotted red;
-    width: 30%;
+    width: 33%;
 }
 
 .mid {
     float:left;
     /*margin: 0 auto;*/
     border: 2px dotted red;
-    width: 30%;
+    width: 33%;
 }
 
 .right {
     float:left;
     border: 2px dotted red;
-    width: 30%;
+    width: 33%;
 }
 
 .left img{

@@ -123,12 +123,14 @@ a {text-decoration: none;}
 .left {
     float:left;
     width: 32%;
+    margin-right: 2px;
 }
 
 .mid {
     float:left;
     /*margin: 0 auto;*/
     width: 32%;
+    margin-right: 2px;
 }
 
 .right {

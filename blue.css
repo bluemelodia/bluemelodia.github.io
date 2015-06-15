@@ -118,25 +118,21 @@ a {text-decoration: none;}
 
 .maximize{
     margin: 0 auto;
-    border: 2px dotted #000000;
 }
 
 .left {
     float:left;
-    border: 2px dotted red;
     width: 32%;
 }
 
 .mid {
     float:left;
     /*margin: 0 auto;*/
-    border: 2px dotted red;
     width: 32%;
 }
 
 .right {
     float:left;
-    border: 2px dotted red;
     width: 32%;
 }
 

@@ -104,8 +104,8 @@ a {text-decoration: none;}
     border-radius: 10px; /* give rounded corners to the icons */
     background-image: url('../images/icons/SleepyHead.png');
     background-size:contain;
-    width: 64px;
-    height: 64px;
+    width: 90px;
+    height: 90px;
     top: 5px;
     left: 5px;
     margin: 0 auto;
@@ -115,8 +115,8 @@ a {text-decoration: none;}
     border-radius: 10px; /* give rounded corners to the icons */
     background-image: url('../images/icons/BuyBuyBye.png');
     background-size:contain;
-    width: 64px;
-    height: 64px;
+    width: 90px;
+    height: 90px;
     top: 5px;
     left: 5px;
     margin: 0 auto;

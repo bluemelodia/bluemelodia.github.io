@@ -128,13 +128,14 @@ a {text-decoration: none;}
 }
 
 .mid {
-    margin: 0 auto;
+    float:left;
+    /*margin: 0 auto;*/
     border: 2px dotted red;
     width: 30%;
 }
 
 .right {
-    float:right;
+    float:left;
     border: 2px dotted red;
     width: 30%;
 }

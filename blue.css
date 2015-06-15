@@ -130,7 +130,6 @@ a {text-decoration: none;}
 .mid {
     margin: 0 auto;
     border: 2px dotted red;
-    display: inline-block;
     width: 30%;
 }
 

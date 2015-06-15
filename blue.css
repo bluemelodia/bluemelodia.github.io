@@ -121,16 +121,6 @@ a {text-decoration: none;}
     border: 2px dotted #000000;
 }
 
-.left, .mid, .right img{
-    width: 100%;
-    -webkit-box-shadow: 0 0 6px rgba(132, 132, 132, .75);
-    -moz-box-shadow: 0 0 6px rgba(132, 132, 132, .75);
-    box-shadow: 0 0 6px rgba(132, 132, 132, .75);
-    -webkit-border-radius: 4px;
-    -moz-border-radius: 4px;
-    border-radius: 4px;
-}
-
 .left {
     float:left;
     border: 2px dotted red;
@@ -148,6 +138,36 @@ a {text-decoration: none;}
     float:right;
     border: 2px dotted red;
     width: 30%;
+}
+
+.left img{
+    width: 100%;
+    -webkit-box-shadow: 0 0 6px rgba(132, 132, 132, .75);
+    -moz-box-shadow: 0 0 6px rgba(132, 132, 132, .75);
+    box-shadow: 0 0 6px rgba(132, 132, 132, .75);
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+}
+
+.mid img{
+    width: 100%;
+    -webkit-box-shadow: 0 0 6px rgba(132, 132, 132, .75);
+    -moz-box-shadow: 0 0 6px rgba(132, 132, 132, .75);
+    box-shadow: 0 0 6px rgba(132, 132, 132, .75);
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+}
+
+.right img{
+    width: 100%;
+    -webkit-box-shadow: 0 0 6px rgba(132, 132, 132, .75);
+    -moz-box-shadow: 0 0 6px rgba(132, 132, 132, .75);
+    box-shadow: 0 0 6px rgba(132, 132, 132, .75);
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
 }
 
 .toggleMenu { /* the menu button that appears on small screens */

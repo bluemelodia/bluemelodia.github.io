@@ -122,7 +122,7 @@ a {text-decoration: none;}
 }
 
 .left, .mid, .right img{
-    width: 32.9%;
+    width: 100%;
     -webkit-box-shadow: 0 0 6px rgba(132, 132, 132, .75);
     -moz-box-shadow: 0 0 6px rgba(132, 132, 132, .75);
     box-shadow: 0 0 6px rgba(132, 132, 132, .75);

@@ -121,7 +121,7 @@ a {text-decoration: none;}
     border: 2px dotted #000000;
 }
 
-.left, .middle, .right img{
+.left, .mid, .right img{
     width: 32.9%;
     -webkit-box-shadow: 0 0 6px rgba(132, 132, 132, .75);
     -moz-box-shadow: 0 0 6px rgba(132, 132, 132, .75);
@@ -136,7 +136,7 @@ a {text-decoration: none;}
     border: 2px dotted #000000;
 }
 
-.middle {
+.mid {
     margin: 0 auto;
     border: 2px dotted #000000;
 }

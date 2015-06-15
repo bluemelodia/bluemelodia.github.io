@@ -290,8 +290,6 @@ a {text-decoration: none;}
     
     /* let the images go one after the other in mobile */
     .left, .mid, .right {
-        float: center;
-        width: 60%;
-        margin: 0 auto;
+        width:100%;
     }
 }

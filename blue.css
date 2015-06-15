@@ -134,16 +134,19 @@ a {text-decoration: none;}
 .left {
     float:left;
     border: 2px dotted #000000;
+    width: 30%;
 }
 
 .mid {
     margin: 0 auto;
     border: 2px dotted #000000;
+    width: 30%;
 }
 
 .right {
     float:right;
     border: 2px dotted #000000;
+    width: 30%;
 }
 
 .toggleMenu { /* the menu button that appears on small screens */

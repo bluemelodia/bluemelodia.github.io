@@ -108,6 +108,7 @@ a {text-decoration: none;}
     height: 64px;
     top: 5px;
     left: 5px;
+    margin: 0 auto;
 }
 
 .icon-bye {
@@ -118,6 +119,7 @@ a {text-decoration: none;}
     height: 64px;
     top: 5px;
     left: 5px;
+    margin: 0 auto;
 }
 
 .maximize{

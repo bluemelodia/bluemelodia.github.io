@@ -123,6 +123,7 @@ a {text-decoration: none;}
 .left {
     float:left;
     width: 32%;
+    margin-left: 1px;
     margin-right: 15px;
 }
 

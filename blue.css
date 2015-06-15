@@ -141,9 +141,9 @@ a {text-decoration: none;}
 
 .left img{
     width: 100%;
-    -webkit-box-shadow: 0 0 6px rgba(132, 132, 132, .75);
-    -moz-box-shadow: 0 0 6px rgba(132, 132, 132, .75);
-    box-shadow: 0 0 6px rgba(132, 132, 132, .75);
+    -webkit-box-shadow: 0 0 3px rgba(132, 132, 132, .75);
+    -moz-box-shadow: 0 0 3px rgba(132, 132, 132, .75);
+    box-shadow: 0 0 3px rgba(132, 132, 132, .75);
     -webkit-border-radius: 8px;
     -moz-border-radius: 8px;
     border-radius: 8px;
@@ -151,9 +151,9 @@ a {text-decoration: none;}
 
 .mid img{
     width: 100%;
-    -webkit-box-shadow: 0 0 6px rgba(132, 132, 132, .75);
-    -moz-box-shadow: 0 0 6px rgba(132, 132, 132, .75);
-    box-shadow: 0 0 6px rgba(132, 132, 132, .75);
+    -webkit-box-shadow: 0 0 3px rgba(132, 132, 132, .75);
+    -moz-box-shadow: 0 0 3px rgba(132, 132, 132, .75);
+    box-shadow: 0 0 3px rgba(132, 132, 132, .75);
     -webkit-border-radius: 8px;
     -moz-border-radius: 8px;
     border-radius: 8px;
@@ -161,9 +161,9 @@ a {text-decoration: none;}
 
 .right img{
     width: 100%;
-    -webkit-box-shadow: 0 0 6px rgba(132, 132, 132, .75);
-    -moz-box-shadow: 0 0 6px rgba(132, 132, 132, .75);
-    box-shadow: 0 0 6px rgba(132, 132, 132, .75);
+    -webkit-box-shadow: 0 0 3px rgba(132, 132, 132, .75);
+    -moz-box-shadow: 0 0 3px rgba(132, 132, 132, .75);
+    box-shadow: 0 0 3px rgba(132, 132, 132, .75);
     -webkit-border-radius: 8px;
     -moz-border-radius: 8px;
     border-radius: 8px;

@@ -41,6 +41,9 @@ a {text-decoration: none;}
     top: 15px;
     margin: 0 auto;
 }
+.roles {
+    margin: 0 auto;
+}
 
 .title img {
     display: block;

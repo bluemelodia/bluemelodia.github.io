@@ -133,19 +133,20 @@ a {text-decoration: none;}
 
 .left {
     float:left;
-    border: 2px dotted #000000;
+    border: 2px dotted red;
     width: 30%;
 }
 
 .mid {
     margin: 0 auto;
-    border: 2px dotted #000000;
+    border: 2px dotted red;
+    display: inline-block;
     width: 30%;
 }
 
 .right {
     float:right;
-    border: 2px dotted #000000;
+    border: 2px dotted red;
     width: 30%;
 }
 

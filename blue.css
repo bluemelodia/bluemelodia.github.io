@@ -284,6 +284,11 @@ a {text-decoration: none;}
     .mini {
         width: 100%;
     }
+    /* allow scrolling on mobile */
+    .demo {
+        -webkit-overflow-scrolling: touch;
+  	    overflow-y: scroll;
+    }
     
     /* otherwise, the title image will be too small on mobile */
     .demo img {

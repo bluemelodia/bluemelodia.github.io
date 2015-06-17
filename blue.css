@@ -41,6 +41,10 @@ a {text-decoration: none;}
     top: 15px;
     margin: 0 auto;
 }
+.roles {
+    text-align: center;
+    margin: 0 auto;
+}
 
 .title img {
     display: block;
@@ -100,25 +104,26 @@ a {text-decoration: none;}
     border-radius: 10px; /* give rounded corners to the icons */
     background-image: url('../images/icons/SleepyHead.png');
     background-size:contain;
-    width: 64px;
-    height: 64px;
+    width: 90px;
+    height: 90px;
     top: 5px;
     left: 5px;
+    margin: 0 auto;
 }
 
 .icon-bye {
     border-radius: 10px; /* give rounded corners to the icons */
     background-image: url('../images/icons/BuyBuyBye.png');
     background-size:contain;
-    width: 64px;
-    height: 64px;
+    width: 90px;
+    height: 90px;
     top: 5px;
     left: 5px;
+    margin: 0 auto;
 }
 
 .maximize{
     margin: 0 auto;
-    border: 1px dotted #000000;
     overflow:hidden;
 }
 
@@ -142,32 +147,32 @@ a {text-decoration: none;}
 
 .left img{
     width: 100%;
-    -webkit-box-shadow: 0 0 6px rgba(132, 132, 132, .75);
-    -moz-box-shadow: 0 0 6px rgba(132, 132, 132, .75);
-    box-shadow: 0 0 6px rgba(132, 132, 132, .75);
-    -webkit-border-radius: 4px;
-    -moz-border-radius: 4px;
-    border-radius: 4px;
+    -webkit-box-shadow: 3px 3px 3px rgba(132, 132, 132, .75);
+    -moz-box-shadow: 3px 3px 3px rgba(132, 132, 132, .75);
+    box-shadow: 3px 3px 3px rgba(132, 132, 132, .75);
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    border-radius: 8px;
 }
 
 .mid img{
     width: 100%;
-    -webkit-box-shadow: 0 0 6px rgba(132, 132, 132, .75);
-    -moz-box-shadow: 0 0 6px rgba(132, 132, 132, .75);
-    box-shadow: 0 0 6px rgba(132, 132, 132, .75);
-    -webkit-border-radius: 4px;
-    -moz-border-radius: 4px;
-    border-radius: 4px;
+    -webkit-box-shadow: 3px 3px 3px rgba(132, 132, 132, .75);
+    -moz-box-shadow: 3px 3px 3px rgba(132, 132, 132, .75);
+    box-shadow: 3px 3px 3px rgba(132, 132, 132, .75);
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    border-radius: 8px;
 }
 
 .right img{
     width: 100%;
-    -webkit-box-shadow: 0 0 6px rgba(132, 132, 132, .75);
-    -moz-box-shadow: 0 0 6px rgba(132, 132, 132, .75);
-    box-shadow: 0 0 6px rgba(132, 132, 132, .75);
-    -webkit-border-radius: 4px;
-    -moz-border-radius: 4px;
-    border-radius: 4px;
+    -webkit-box-shadow: 3px 3px 3px rgba(132, 132, 132, .75);
+    -moz-box-shadow: 3px 3px 3px rgba(132, 132, 132, .75);
+    box-shadow: 3px 3px 3px rgba(132, 132, 132, .75);
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    border-radius: 8px;
 }
 
 .toggleMenu { /* the menu button that appears on small screens */

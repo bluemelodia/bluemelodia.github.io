@@ -288,6 +288,7 @@ a {text-decoration: none;}
     .demo {
         -webkit-overflow-scrolling: touch;
   	    overflow-y: scroll;
+  	    overflow-x: scroll;
     }
     
     /* otherwise, the title image will be too small on mobile */

@@ -147,12 +147,17 @@
 		<p>The first video is a demo of Protocol 'C', where I queried a directory of photos with an image. PhotoDex ranked the images in the directory
 		according to color similarity with the query image, then asked me to list the numbers and ranges of images I wanted to move to the destination directory.</p>
 		
-		<p>The second video is a demo of Protocol 'D'.</p>
+		<p>The second video is a demo of Protocol 'D', which like Protocol C ranks images according to color similarity. PhotoDex then asks the user to pick a cutoff threshold, so that images
+		whose similarity values fall below the threshold will be clustered together. After displaying the clusters, PhotoDex asks which member of the cluster the user wants to keep, 
+		and either relocates or deletes the other images in the cluster.</p>
 		
 		<p>I also implemented Protocol 'F' which detects photos containing human faces, and Protocol 'S' which resizes all images in a directory according to a user-specified height or width.</p>
 
 		<div class="demo">
 			<iframe width="100%" height="100%" src="https://www.youtube.com/embed/pARkJAAlbtA" frameborder="0" allowfullscreen></iframe>
+		</div>
+		<div class="demo">
+			<iframe width="100%" height="100%" src="https://www.youtube.com/embed/LkOciaokbNM" frameborder="0" allowfullscreen></iframe>
 		</div>
 		<br>
 	</div>

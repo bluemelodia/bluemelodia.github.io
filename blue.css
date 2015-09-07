@@ -248,11 +248,11 @@ a {text-decoration: none;}
 }
 .nav > li.hover > ul {
     left: 0;
+    color: #ffffff; /* TEST */
 }
 .nav li li.hover ul {
     left: 100%;
     top: 0;
-    color: #ffffff; /* TEST */
 }
 
 @media screen and (max-width: 1000px) {

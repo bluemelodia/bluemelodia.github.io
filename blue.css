@@ -248,7 +248,6 @@ a {text-decoration: none;}
 }
 .nav > li.hover > ul {
     left: 0;
-    color: #ffffff; /* TEST */
 }
 .nav li li.hover ul {
     left: 100%;

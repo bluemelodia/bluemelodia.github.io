@@ -252,6 +252,7 @@ a {text-decoration: none;}
 .nav li li.hover ul {
     left: 100%;
     top: 0;
+    color: #ffffff; /* TEST */
 }
 
 @media screen and (max-width: 1000px) {
